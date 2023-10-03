@@ -1,0 +1,114 @@
+.item1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 169, 182);
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+.item2 {
+    width: 50px;
+    height: 50px;
+    background-color:rgb(249, 222, 167);
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+.item3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(249, 236, 170);
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+.item4 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(189, 255, 161);
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+.item5 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(179, 232, 248);;
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+.item6 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(131, 178, 255);
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+.item7 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(241, 193, 255);
+    color: rgb(38, 0, 59);
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}
+
+.firstcontainer {
+    display:flex;
+    justify-content: flex-start;
+    background: rgb(228, 39, 67);
+    color:rgb(251, 118, 138);
+}
+.secondcontainer {
+    display:flex;
+    background: rgb(237, 147, 49);
+    justify-content: flex-end;
+    color: rgb(249, 203, 112);
+}
+.thirdcontainer {
+    display:flex;
+    background: rgb(237, 219, 21);
+    justify-content:space-evenly;
+    color:rgb(248, 226, 117);
+}
+.fourthcontainer {
+    display:flex;
+    background: rgb(124, 232, 47);
+    justify-content: center;
+    color:rgb(161, 253, 121);
+}
+.fifthcontainer{
+    display:flex;
+    background: rgb(73, 185, 255);
+    justify-content: space-around;
+    color:rgb(119, 219, 250);
+}
+.sixthcontainer {
+    display:flex;
+    background: rgb(52, 117, 247);
+    justify-content: space-between;
+    color:rgb(122, 173, 255);
+}
+.seventhcontainer {
+    display: flex;
+    background: rgb(232, 50, 253);
+    color: rgb(226, 137, 253);
+    justify-content:space-evenly;
+}
+.zagolovok{
+    height: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
